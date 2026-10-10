@@ -1,4 +1,3 @@
 .env
 node_modules/
-SECRET_KEY = my_access_secret_is_here
-REFRESH_SECRET_KEY = my_refresh_secret_is_here
+
